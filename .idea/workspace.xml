@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddec4c88-0464-4875-8d04-1df3b6c2f90d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/SpeedCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/Trucs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p5/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2StFAPrxWTRIaWaQSwrfzdUVhEu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddec4c88-0464-4875-8d04-1df3b6c2f90d" name="Changes" comment="" />
+      <created>1689957827442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689957827442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
